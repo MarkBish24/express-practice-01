@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBish24/express-practice-01.git"
+  },
+  "author": "Mark Bishoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBish24/express-practice-01/issues"
+  },
+  "homepage": "https://github.com/MarkBish24/express-practice-01#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "slugify": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
